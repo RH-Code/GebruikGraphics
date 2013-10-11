@@ -1,0 +1,5 @@
+This is an exercise on the use of simple graphics.
+
+Class: Graphics, Pen, SolidBrush, Bitmap
+Methods: Draw.Fill
+Objects: pen, brush, pic
